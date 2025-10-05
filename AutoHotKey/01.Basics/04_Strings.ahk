@@ -1,5 +1,5 @@
 ;- ==============================
-;- Lesson: Strings
+;- Topic: Strings
 ;- ==============================
 
 greeting := "Hello, World!"

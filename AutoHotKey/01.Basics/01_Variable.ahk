@@ -1,5 +1,5 @@
 ;- ==============================
-;- Lesson: Variables
+;- Topic: Variables
 ;- ==============================
 
 ; In AHK v2, variables are created with := or just assignment.
