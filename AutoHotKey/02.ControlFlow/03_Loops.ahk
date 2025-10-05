@@ -14,7 +14,7 @@ while Example_1 {
     }
 }
 
-;! [For] For (variable) in (something) { - Do something } - it would go through all the {something}
+;! [For Each] For (variable) in (something) { - Do something } - it would go through all the {something}
 ;! [Array] value
 Example_2 := [1, 2, 3, 4, 5, 6]
 for i in Example_2 {
